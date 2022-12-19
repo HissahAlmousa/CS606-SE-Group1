@@ -4,7 +4,7 @@ Software Engineering Group Project
 ******** Academic Advisor Application ********
 
 ----> Idea: 
-As a student, we may face difficulties arranging an appropriate time to meet with the academic advisor for any reason. This app will help the student to get in touch with the advisor without actually annoying him by sending messages back and forth for that purpose. On the other hand, the advisor will have an access to the app in order to manage their availability and appointments with students. 
+An application for students and academic advisors to make it easy for both to arrange and schedule meetings. The student will be able to see the advisor's availability times and book that time and the advisor will be notified. On the other hand, the advisor will be able to update his schedule and time availability constantly.
 
 ----> Goals:
 
