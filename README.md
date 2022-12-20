@@ -17,5 +17,11 @@
 - To facilitate the access of academic advisors to their students during office hours by knowing the students who have booked an appointment with him.
 - To develop the proposed academic advisor software in order to facilitate communication between students and their academic advisors.
 
+#### 3. Motivations: 
+Academic advising is one of the most important service that help students to integrate into the academic environment. It also contributes to ensuring the student’s scientific progress 
+
+In view of many steps and the great deal of wasted time through the coordination of academic advisor, students and conflicts between students and their academic advisor, where repetition occurs constantly, such as the student booking two appointments with the same advisor on the same day, students as well as advisors do not need that. 
+
+Another reason is that the paper-based process by which an academic advisor records his or her appointments may be lost. Therefore, we decided to design a software in order to avoid all these problems. 
 
 
