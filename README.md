@@ -4,11 +4,7 @@ Software Engineering Group Project
 ******** Academic Advisor Application ********
 
 ----> Idea: 
-An application for students and academic advisors to make it easy for both to arrange and schedule meetings. The student will be able to see the advisor's availability times and book that time and the advisor will be notified. On the other hand, the advisor will be able to update his schedule and time availability constantly.
-
-----> Goals:
-
-
+An application for students and academic advisors to make it easy for both to arrange and schedule meetings. The student will be able to see the advisor's availability times and book a time and the advisor will be notified. On the other hand, the advisor will be able to update his schedule and time availability constantly.
 
 
 
