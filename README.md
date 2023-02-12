@@ -27,8 +27,8 @@ Another reason is that the paper-based process by which an academic advisor reco
 
 
 
-A ####Trello Board#### is used to manage the tasks and progress of the project.
+A Trello Board is used to manage the tasks and progress of the project.
 Here is a direct link to the Trello Board: https://trello.com/invite/b/C2Yz8FsJ/ATTI8cb74e2b3fb427c9f7dd935e39267028B8596C4D/academic-advisor-software
 
-For the UI Implementation, we have used ####Figma software#### to design the details of both student and advisor interfaces.
+For the UI Implementation, we have used Figma software to design the details of both student and advisor interfaces.
 Here is a link to Figma: https://www.figma.com/file/YvK6wq2u13uzYKZK0Rbb3l/CS606-project?node-id=0%3A1&t=6mRMuTZNEKGGHjUF-1
