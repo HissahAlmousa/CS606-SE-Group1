@@ -25,3 +25,6 @@ In view of many steps and the great deal of wasted time through the coordination
 Another reason is that the paper-based process by which an academic advisor records his or her appointments may be lost. Therefore, we decided to design a software in order to avoid all these problems. 
 
 
+A Trello Board is used to manage the tasks and progress of the project.
+Here is a direct link to the Trello Board: https://trello.com/invite/b/C2Yz8FsJ/ATTI8cb74e2b3fb427c9f7dd935e39267028B8596C4D/academic-advisor-software
+
