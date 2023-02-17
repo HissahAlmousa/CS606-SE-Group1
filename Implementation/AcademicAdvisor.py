@@ -1,7 +1,7 @@
 
 #Code implementation API for academic advisor software. All components and classes have been \
 # implemented, including methods and attributes.\
-#Two design patterns are used; behavioral 'Observer' pattern and creational 'Person' pattern.  \
+#Two design patterns are used; behavioral 'Observer' pattern and creational 'Person' pattern, in seperate files Observer.py & Person.py \
 \
 \
 \
